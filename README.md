@@ -1,4 +1,4 @@
-This a repository for the pip library https://pypi.org/project/python-geoip-python3/ 
+## 💬 Details
 
 Other fields has been added to the IPInfo object
 Country name
